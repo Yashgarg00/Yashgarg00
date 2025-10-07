@@ -14,14 +14,14 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Bhawana Dhaka"
-        self.education = "Master's in Data Science"
-        self.institution = "IIIT Lucknow"
+        self.name = "Yash Garg"
+        self.education = "Master's in Mathematics and Scientific Computing"
+        self.institution = "NIT Warngal"
         self.background = "Bachelor's in Mathematics"
         self.location = "India"
-        self.skills = ["Python", "Statistics", "Machine Learning", "Deep Learning"]
+        self.skills = ["Python", "Statistics", "Machine Learning"]
         self.interests = ["Big Data", "Cloud Computing", "AI", "Industry Applications"]
-        self.current_focus = "Big Data Analytics & Deep Learning"
+        self.current_focus = "Real World Application Of Machine Learning & Deep Learning"
         
     def say_hi(self):
         print("🎯 Transforming data into insights with the power of mathematics!")
